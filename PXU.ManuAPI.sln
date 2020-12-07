@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PXU.ManuAPI", "PXU.ManuAPI.csproj", "{498F100C-D41C-49DD-89B6-E22F8EC3CF49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{498F100C-D41C-49DD-89B6-E22F8EC3CF49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498F100C-D41C-49DD-89B6-E22F8EC3CF49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498F100C-D41C-49DD-89B6-E22F8EC3CF49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498F100C-D41C-49DD-89B6-E22F8EC3CF49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C631EC5D-8444-4E3A-84C1-EBB092BB016A}
+	EndGlobalSection
+EndGlobal
